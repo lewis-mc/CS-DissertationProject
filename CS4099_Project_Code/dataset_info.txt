@@ -1,0 +1,24 @@
+All data:
+ABE	Abnormal eosinophil             8
+ART	Artefact                        19,630
+BAS	Basophil                        441
+BLA	Blast                           11,973
+EBO	Erythroblast                    27,395
+EOS	Eosinophil                      5,883
+FGC	Faggott cell                    47
+HAC	Hairy cell                      409
+KSC	Smudge cell                     42
+LYI	Immature lymphocyte             65
+LYT	Lymphocyte                      26,424
+MMZ	Metamyelocyte                   3,055
+MON	Monocyte                        4,040
+MYB	Myelocyte                       6,557
+NGB	Band neutrophil                 9,968
+NGS	Segmented neutrophil            29,424
+NIF	Not identifiable                3,538
+OTH	Other cell                      294
+PEB	Proerythroblast                 2,740
+PLM	Plasma cell                     7,629
+PMO	Promyelocyte                    11,994
+
+
